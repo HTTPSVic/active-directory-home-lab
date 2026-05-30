@@ -2,7 +2,7 @@
 
 ## Objective
 Built an on-premises Active Directory environment from scratch using two
-virtual machines in Oracle VirtualBox. Configured a Windows Server 2019
+virtual machines in Oracle VirtualBox. Configured a Windows Server 2022
 Domain Controller providing AD DS, DNS, DHCP, and NAT/routing, then joined
 a Windows 10 client to the domain and bulk-created users via PowerShell.
 
